@@ -1,5 +1,5 @@
 # 2019-sunparks-voucher-POC
-###22 apr 2019 Reported Sunparks voucher bruteforce
+## 22 apr 2019 - Reported Sunparks voucher bruteforce vunerability
 
 email to customer contact below
 
